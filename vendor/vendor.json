@@ -1,0 +1,17 @@
+{
+	"comment": "",
+	"ignore": "test",
+	"package": [
+		{
+			"checksumSHA1": "LAY0jKgywbclTbtn710b3TGOvYQ=",
+			"path": "github.com/CarlosRA97/wpi",
+			"revision": "6dedb2e6b3d85d26fe68202bd832bf07ded2fe72",
+			"revisionTime": "2016-12-06T00:12:54Z"
+		},
+		{
+			"path": "github.com/rogpeppe/rog-go/tree/master/exp/callback",
+			"revision": ""
+		}
+	],
+	"rootPath": "github.com/floreks/breathalyzer"
+}
