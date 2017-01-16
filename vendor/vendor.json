@@ -3,14 +3,38 @@
 	"ignore": "test",
 	"package": [
 		{
-			"checksumSHA1": "LAY0jKgywbclTbtn710b3TGOvYQ=",
-			"path": "github.com/CarlosRA97/wpi",
-			"revision": "6dedb2e6b3d85d26fe68202bd832bf07ded2fe72",
-			"revisionTime": "2016-12-06T00:12:54Z"
+			"checksumSHA1": "oP8PZRYLmeTgOzqd6RKAmodHrl8=",
+			"path": "github.com/d2r2/go-i2c",
+			"revision": "003090482050ff21a902455ab9119f76247db460",
+			"revisionTime": "2015-07-29T19:15:06Z"
+		},
+		{
+			"checksumSHA1": "m5F17348g3IrRWgkzbGg9NIjlZ0=",
+			"path": "github.com/golang/exp",
+			"revision": "f43f8d06a5464fa233a7ed4cd9630a2b3a4633ae",
+			"revisionTime": "2017-01-07T01:50:47Z"
+		},
+		{
+			"checksumSHA1": "dLiTf+TCX0CHRHbyBHvPGc4Dbdc=",
+			"path": "github.com/golang/exp/io/i2c",
+			"revision": "f43f8d06a5464fa233a7ed4cd9630a2b3a4633ae",
+			"revisionTime": "2017-01-07T01:50:47Z"
+		},
+		{
+			"checksumSHA1": "BoXdUBWB8UnSlFlbnuTQaPqfCGk=",
+			"path": "github.com/op/go-logging",
+			"revision": "970db520ece77730c7e4724c61121037378659d9",
+			"revisionTime": "2016-03-15T20:05:05Z"
 		},
 		{
 			"path": "github.com/rogpeppe/rog-go/tree/master/exp/callback",
 			"revision": ""
+		},
+		{
+			"checksumSHA1": "dJnnn8GW7JBnsCMTia/EsCWM7sE=",
+			"path": "golang.org/x/exp/io/i2c/driver",
+			"revision": "f43f8d06a5464fa233a7ed4cd9630a2b3a4633ae",
+			"revisionTime": "2017-01-07T01:50:47Z"
 		}
 	],
 	"rootPath": "github.com/floreks/breathalyzer"
