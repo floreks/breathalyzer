@@ -3,10 +3,16 @@
 	"ignore": "test",
 	"package": [
 		{
-			"checksumSHA1": "oP8PZRYLmeTgOzqd6RKAmodHrl8=",
-			"path": "github.com/d2r2/go-i2c",
-			"revision": "003090482050ff21a902455ab9119f76247db460",
-			"revisionTime": "2015-07-29T19:15:06Z"
+			"checksumSHA1": "yMklxvPjoeonxCW93j8AeohnRI4=",
+			"path": "github.com/emicklei/go-restful",
+			"revision": "d916db217751a3fef55337f799c31fde4b8efcf1",
+			"revisionTime": "2016-12-22T19:12:39Z"
+		},
+		{
+			"checksumSHA1": "3xWz4fZ9xW+CfADpYoPFcZCYJ4E=",
+			"path": "github.com/emicklei/go-restful/log",
+			"revision": "d916db217751a3fef55337f799c31fde4b8efcf1",
+			"revisionTime": "2016-12-22T19:12:39Z"
 		},
 		{
 			"checksumSHA1": "m5F17348g3IrRWgkzbGg9NIjlZ0=",
@@ -27,8 +33,16 @@
 			"revisionTime": "2016-03-15T20:05:05Z"
 		},
 		{
-			"path": "github.com/rogpeppe/rog-go/tree/master/exp/callback",
-			"revision": ""
+			"checksumSHA1": "WPlkKRLR/+9GOKzY4YJeCWlcLsU=",
+			"path": "github.com/spf13/pflag",
+			"revision": "a9a634f3de0a7529baded7ad6b0c7467d5c6eca7",
+			"revisionTime": "2017-01-25T15:35:48Z"
+		},
+		{
+			"checksumSHA1": "dyI8tS2bXHlHpPIp6VGZ/HXKyJQ=",
+			"path": "github.com/stianeikeland/go-rpio",
+			"revision": "896db2ee1c7f95240dd6a09e56edf9cece107a34",
+			"revisionTime": "2015-12-08T00:50:14Z"
 		},
 		{
 			"checksumSHA1": "dJnnn8GW7JBnsCMTia/EsCWM7sE=",
